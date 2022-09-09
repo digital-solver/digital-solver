@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Digital-Solver (aka Kerr).
-- 👀 I’m interested in Technology and Entrepreneurship.
+- 👀 I’m interested in Technology, Music, and Entrepreneurship.
 - 🌱 I’m currently learning the MERN Stack.
 - 💞️ I’m looking to collaborate on interesting ideas.
 - 📫 How to reach me: You can't at the moment 😜.
