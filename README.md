@@ -1,4 +1,4 @@
-🤖 Hey, I'm Kerr, the @digital-solver. At heart I'm a 'Solver': an entrepreneurial technologist, inventor, futurist, and innovator. I am driven by a passion for technology and business and a desire to explore the limitless potential of advanced technologies.
+🤖 Hey, I'm Kerr, the @digital-solver. At heart I'm a 'Solver': an entrepreneurial technologist, artificer, inventor, futurist, and innovator. I am driven by a passion for technology and business and a desire to explore the limitless potential of advanced technologies.
 
 🚀 With a strong background in tech startups and a deep fascination with the intersection of technology and business, I am constantly seeking out innovative ways to drive growth and value. My research into the potential for AI to be musically creative sparked a deeper interest in the business applications of advanced technologies. I have since dedicated myself to seeking out or building innovative and advanced solutions that address real-world problems and produce widespread value.
 
