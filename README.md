@@ -4,7 +4,7 @@
 
 💡 Passionate about leveraging technology to enhance human potential and performance at individual and organisational levels. Currently exploring AI's role in creativity and its integration in entrepreneurship.
 
-🛠️ UX Engineer (Figma), Front End Developer (React), some Full-Stack experience (Express), exploring AI/ML with Python, and interested in high-performance computing with Go.
+🛠️ UX Engineer (Figma & React), some Full-Stack experience (Express), exploring AI/ML with Python, and interested in high-performance computing with Go.
 
 🎵 Musician crossed with tech innovator, always seeking harmonies between creativity and code.
 
