@@ -3,7 +3,7 @@
 Founder. Product at Nectis, building Aevamo.
 
 **[Nectis](https://nectis.io)** · Chief Product Officer
-Measures social capital inside organisations. It uses network analysis to map who actually works with whom, so leaders can see where trust and information really flow, and where they don't.
+Turns the relationships inside a community into hard evidence of what changed, so the people who fund the work can see it instead of taking it on faith.
 
 **[Aevamo](https://aevamo.com)** · Founder
 Tells you how long you can stay in a country and what you need to stay there, based on the law itself.
