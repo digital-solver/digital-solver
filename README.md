@@ -6,10 +6,11 @@ Founder. Product at Nectis, building Aevamo.
 Turns the relationships inside a community into hard evidence of what changed, so the people who fund the work can see it instead of taking it on faith.
 
 **[Aevamo](https://aevamo.com)** · Founder
-Tells you how long you can stay in a country and what you need to stay there, based on the law itself.
-- AI agents keep a rules database current by reading government sources, and every answer cites the exact clause it rests on.
-- A second, independent model checks each answer before it goes live. If the sources don't settle a question, the answer is marked as unsettled instead of being guessed.
-- Covers 216 countries and territories, served through an API and a multiplatform app.
+Whether you can enter a country, how long you can stay, and how the days are counted, answered from the law itself.
+- Entry rules for 199 passports into 250 destinations: nearly 50,000 answers, drawn from more than 2,000 recorded rules.
+- Every answer quotes the passage of the official law, decree or gazette it rests on, links to the source, and shows the date it was last checked.
+- Where sources disagree, the official instrument wins and the disagreement is recorded rather than averaged away.
+- Available on the web at [aevamo.com](https://aevamo.com), in a multiplatform app, and through an API and an MCP server.
 
 Scottish-Spanish, living between Southeast Asia and Europe. I play guitar, camp in places I probably shouldn't, and sometimes disappear to my family's off-grid orchard in Portugal.
 
