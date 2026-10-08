@@ -1,13 +1,17 @@
-🚀 Hi, I'm Kerr Campbell (@digital-solver) - an entrepreneur, technologist, and thinker at the intersection of human potential, tech, and AI.
+### Kerr Campbell
 
-🔍 Founder of GRIT (revolutionizing self-accountability) and Chief Strategy Officer at Nectis (pioneering social capital analytics).
+Founder. Product at Nectis, building Aevamo.
 
-💡 Passionate about leveraging technology to enhance human potential and performance at individual and organisational levels. Currently exploring AI's role in creativity and its integration in entrepreneurship.
+**[Nectis](https://nectis.io)** · Chief Product Officer
+Measures social capital inside organisations. It uses network analysis to map who actually works with whom, so leaders can see where trust and information really flow, and where they don't.
 
-🛠️ UX Engineer (Figma & React), some Full-Stack experience (Express), exploring AI/ML with Python, and interested in high-performance computing with Go.
+**[Aevamo](https://aevamo.com)** · Founder
+Tells you how long you can stay in a country and what you need to stay there, based on the law itself.
+- AI agents keep a rules database current by reading government sources, and every answer cites the exact clause it rests on.
+- A second, independent model checks each answer before it goes live. If the sources don't settle a question, the answer is marked as unsettled instead of being guessed.
+- Covers 216 countries and territories, served through an API and a multiplatform app.
 
-🎵 Musician crossed with tech innovator, always seeking harmonies between creativity and code.
+Scottish-Spanish, living between Southeast Asia and Europe. I play guitar, camp in places I probably shouldn't, and sometimes disappear to my family's off-grid orchard in Portugal.
 
-📚 Constantly learning, tinkering, and writing about the future of work, social networks, unlocking human potential with tech, and AI-driven innovation.
+kerr.digitalsolver@gmail.com
 
-🌐 Let's connect and build something impactful: kerr.digitalsolver@gmail.com
